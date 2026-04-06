@@ -1,0 +1,23 @@
+{
+  "name": "tp03_dai",
+  "version": "1.0.0",
+  "description": "pedro trabaja con modulos",
+  "homepage": "https://github.com/Nicolas8701cole/Tp03_DAI#readme",
+  "bugs": {
+    "url": "https://github.com/Nicolas8701cole/Tp03_DAI/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas8701cole/Tp03_DAI.git"
+  },
+  "license": "ISC",
+  "author": "Nicolas Frenkel, Tomaz Binicio Lopes",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.20"
+  }
+}
