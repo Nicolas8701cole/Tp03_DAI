@@ -13,6 +13,7 @@ async function buscarProducto(params) {
         }
         else {
             console.error("Error: Falta rellenar campos")
+            console.log("Producto no encontrado")
         }
 
     }
